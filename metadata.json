@@ -1,0 +1,5 @@
+{
+  "name": "UR Lab File System",
+  "description": "A high-performance, UR Lab web file management system featuring draggable windows, realistic file operations, and Gemini AI-powered content analysis.",
+  "requestFramePermissions": []
+}
